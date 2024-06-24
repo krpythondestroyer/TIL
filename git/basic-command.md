@@ -23,3 +23,11 @@ git add .
     ```bash
 git status
     ```
+
+## commit
+- staging area에 올라간 내용을 스냅샷 찎기 
+    - 'm' 옵셔을 통해 커밋메세지를 바로 입력 가능
+
+```bash 
+git commit -m "first commit"
+```
