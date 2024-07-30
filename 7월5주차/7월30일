@@ -1,0 +1,8 @@
+수업 흐름
+- 환경 설정 ( .gitgnore, startproject, 앱생성 및 등록)
+- 기초 설정 ( 공통 base.html 구조 가성, 모델링 및 마이 그레이션, admin에 Article 모델 추가,)
+- 내용 설정 ( READ(ALL)기능 구현, bootstrap적용, settings.py 수정, Read(1)기능 구현, Create기능 구현, Detlete 기능 구현, Update 기능 구현)
+
+수업 의도 
+- crud 기능의 업데이트
+- 만들고, 읽고, 수정하고, 지운다.
